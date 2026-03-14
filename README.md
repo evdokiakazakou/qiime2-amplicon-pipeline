@@ -5,7 +5,7 @@ control, denoising, taxonomic classification, phylogenetic tree construction,
 diversity analysis, differential abundance analysis, and data export for downstream
 analysis in R.
 
-Developed based on course material by G. Rouskas (IHU, 2025-2026).
+Developed based on course material by Dr. G. Rouskas.
 
 ---
 
