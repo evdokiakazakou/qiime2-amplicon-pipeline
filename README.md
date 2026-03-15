@@ -407,4 +407,4 @@ statistical analysis and visualisation.
 
 This pipeline is based on course material from the **Metagenomics** module of the MSc program "Applied Bioinformatics" (AUTH/IHU).
 
-Original scripts developed by ** Dr. G. Rouskas**.
+Original scripts developed by **Dr. G. Rouskas**.
